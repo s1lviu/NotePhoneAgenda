@@ -1,18 +1,13 @@
-Welcome to your Appcelerator Titanium Mobile Project
+<p>Note Phone Agenda</p>
 
-This is a blank project.  Start by editing your application's app.js to 
-make your first mobile project using Titanium.
+<p>Select contacts from phone and set it a custom note which will be saved on your phone as a text file.</p>
 
+<p>It help to keep evidence of priorities at work or elsewere.</p>
 
+<p>Source code for <a href="http://www.appcelerator.com/product/">Titanium Appcelerator</a>.</p>
 
-----------------------------------
-Stuff our legal folk make us say:
-
-Appcelerator, Appcelerator Titanium and associated marks and logos are 
-trademarks of Appcelerator, Inc. 
-
-Titanium is Copyright (c) 2008-2013 by Appcelerator, Inc. All Rights Reserved.
-
-Titanium is licensed under the Apache Public License (Version 2). Please
-see the LICENSE file for the full license.
-
+<blockquote>
+  <p><a href="http://silviu-s.com">Silviu Bogdan Stroe</a> <br>
+  silviu [at] silviu-s.com <br>
+  <a href="http://silviu-s.com">www.silviu-s.com</a></p>
+</blockquote>
